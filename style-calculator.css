@@ -8,3 +8,11 @@
     font-family: 'digital-clock-font';
     font-size: 50px;
 }
+
+.activeBtn {
+    color: red;
+}
+
+.operatorBtn {
+    color: blue;
+}
